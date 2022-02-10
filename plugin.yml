@@ -1,0 +1,10 @@
+name: BattleGround
+author: taewookim562
+website: https://www.youtube.com/channel/UCA_CwuNjNEneAEbi_m27ILg
+version: Umm...
+api-version: 1.17
+main: battle.main
+description: "made by taewookim562"
+
+commands:
+  battle:
